@@ -1,0 +1,6 @@
+[submodule "django_crud_restapi"]
+	path = django_crud_restapi
+	url = https://github.com/suhassiddu/django_crud_restapi
+[submodule "vuex_crud_client"]
+	path = vuex_crud_client
+	url = https://github.com/suhassiddu/vuex_crud_client
